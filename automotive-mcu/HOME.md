@@ -39,3 +39,7 @@ aliases:
 ## 데이터시트 보조 검색처
 
 - [[ALLDATASHEET]] — 부품명으로 데이터시트 탐색, 제조사 공식본 우선 대조
+
+## MCU 비교
+
+- [[TLE9877 vs TLE9879]] — Flash·RAM·CPU·ADC 비교와 개발 적용

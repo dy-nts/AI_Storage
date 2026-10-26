@@ -38,3 +38,7 @@ MCU 품번과 리비전, 도구 버전, 증상, 재현 조건, 원문 URL, 답�
 ## Infineon 공식 자료
 
 - [[Infineon Collection]]
+
+## MCU 비교
+
+- [[TLE9877 vs TLE9879]] — Flash·RAM·CPU·ADC 비교와 개발 적용
