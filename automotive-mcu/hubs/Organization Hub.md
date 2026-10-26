@@ -33,3 +33,7 @@ related: []
 ## Infineon 공식 자료
 
 - [[Infineon Collection]]
+
+## 외부 데이터시트 검색 서비스
+
+- [[ALLDATASHEET]] — 제조사 공식 사이트와 구분하는 보조 검색처

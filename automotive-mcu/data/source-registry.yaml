@@ -135,6 +135,20 @@
       "review_status": "로그인 필요 · 소개 페이지만 확인",
       "archive_status": "not_downloaded",
       "date_semantics": "소개 페이지 표시일; 원문 발행일과 다를 수 있음"
+    },
+    {
+      "id": "ADS-001",
+      "title": "ALLDATASHEET Korea",
+      "organization": "ALLDATASHEET",
+      "source_type": "datasheet-search-portal",
+      "url": "https://www.alldatasheet.co.kr/",
+      "official": false,
+      "evidence_level": "Reported",
+      "last_verified": "2026-10-26",
+      "review_status": "홈페이지 및 부품명 검색 기능 확인; 개별 데이터시트 미수집",
+      "archive_status": "not_downloaded",
+      "priority": "secondary",
+      "verification_rule": "정확한 품번, 제조사, 리비전, 발행일, silicon step을 제조사 공식 문서와 대조"
     }
   ]
 }
