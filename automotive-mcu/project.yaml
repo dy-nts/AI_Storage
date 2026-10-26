@@ -1,0 +1,16 @@
+version: 1
+topic: "자동차 MCU 개발"
+name: "자동차 MCU 개발 Knowledge Base"
+slug: "automotive-mcu-development"
+kb_type: "Technology / Software / Research"
+language: "ko"
+countries:
+  - "KR"
+site: "none"
+gcp_level: 0
+public: true
+created: 2026-10-26
+public_repository: "automotive-mcu-development-knowledge-base"
+development_repository: "automotive-mcu-development-knowledge-base-dev"
+development_visibility: private
+source_policy: link-only

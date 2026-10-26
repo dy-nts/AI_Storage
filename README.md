@@ -1,3 +1,13 @@
+# AI_Storage — 자동차 MCU 개발 지식창고
+
+- [Windows 및 Obsidian 연결 안내](LOCAL-SETUP.md)
+- [자동차 MCU 지식창고](automotive-mcu/HOME.md)
+- [Infineon 1차 수집 목록](automotive-mcu/hubs/Infineon%20Collection.md)
+
+공개 문서 요약과 공식 링크를 관리합니다. 아래는 원본 생성기 안내입니다.
+
+---
+
 # Knowledge Base Generator
 
 **Build verified, Obsidian-compatible knowledge bases with GitHub, Google Cloud, and AI.**
