@@ -149,6 +149,21 @@
       "archive_status": "not_downloaded",
       "priority": "secondary",
       "verification_rule": "정확한 품번, 제조사, 리비전, 발행일, silicon step을 제조사 공식 문서와 대조"
+    },
+    {
+      "id": "NXP-001",
+      "title": "S32K3xx Data Sheet",
+      "organization": "NXP Semiconductors",
+      "source_type": "datasheet",
+      "url": "https://www.nxp.com/docs/en/data-sheet/S32K3xx.pdf",
+      "version": "14",
+      "publication_date": "2026-04-10",
+      "last_verified": "2026-10-26",
+      "official": true,
+      "evidence_level": "Confirmed",
+      "review_status": "다운로드 PDF 표지 및 지원 품번 확인",
+      "archive_status": "downloaded_separately_not_in_repository",
+      "date_semantics": "PDF 표지 날짜"
     }
   ]
 }

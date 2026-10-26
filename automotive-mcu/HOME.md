@@ -43,3 +43,7 @@ aliases:
 ## MCU 비교
 
 - [[TLE9877 vs TLE9879]] — Flash·RAM·CPU·ADC 비교와 개발 적용
+
+## NXP 공식 자료
+
+- [[S32K3xx Datasheet]] — S32K314 포함, 공식 PDF와 문서 정보
