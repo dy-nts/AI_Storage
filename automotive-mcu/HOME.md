@@ -47,3 +47,7 @@ aliases:
 ## NXP 공식 자료
 
 - [[S32K3xx Datasheet]] — S32K314 포함, 공식 PDF와 문서 정보
+
+## 제조사 커뮤니티 Q&A
+
+- [[Infineon Community]] — Infineon Forums 출처와 Q&A 수집 기준

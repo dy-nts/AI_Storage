@@ -50,3 +50,7 @@ related: []
 - BootROM 매뉴얼, DFP/SDK 문서, 제조사 개별 Q&A 추가 수집
 
 [[Topic Hub]] · [[Overview]]
+
+## 제조사 커뮤니티 Q&A
+
+- [[Infineon Community]] — Infineon Forums 출처와 Q&A 수집 기준

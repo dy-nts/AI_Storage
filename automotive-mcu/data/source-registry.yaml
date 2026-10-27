@@ -164,6 +164,20 @@
       "review_status": "다운로드 PDF 표지 및 지원 품번 확인",
       "archive_status": "downloaded_separately_not_in_repository",
       "date_semantics": "PDF 표지 날짜"
+    },
+    {
+      "id": "IFX-010",
+      "title": "Infineon Developer Community Forums",
+      "organization": "Infineon Technologies",
+      "source_type": "community-qa-portal",
+      "url": "https://community.infineon.com/t5/Forums/ct-p/products/page/1#limit=10",
+      "canonical_url": "https://community.infineon.com/t5/Forums/ct-p/products",
+      "official": true,
+      "evidence_level": "Confirmed",
+      "last_verified": "2026-10-28",
+      "review_status": "기본 Forums 페이지 검색 결과로 포털 확인; 지정 페이지 직접 열기 실패; 개별 Q&A 미수집",
+      "archive_status": "not_downloaded",
+      "verification_rule": "제조사 운영 포털과 개별 답변의 신뢰도를 구분. 답변자 역할, 채택 여부, 적용 품번·버전과 공식 문서 대조"
     }
   ]
 }
